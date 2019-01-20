@@ -1,0 +1,1 @@
+open/close registration change current files ('vendor\backpack\base\src\config\backpack\base.php', 'config\backpack\base.php');
